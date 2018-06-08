@@ -1,0 +1,5 @@
+C:\Users\5661\Desktop\AITMediaProject\Data Access\bin\Release\Data Access.dll.config
+C:\Users\5661\Desktop\AITMediaProject\Data Access\bin\Release\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\Data Access\bin\Release\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\Data Access\obj\Release\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\Data Access\obj\Release\Data Access.pdb

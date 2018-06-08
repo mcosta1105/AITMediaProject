@@ -1,0 +1,7 @@
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Release\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Release\Business Logic.pdb
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Release\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Release\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Release\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Release\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Release\Business Logic.pdb

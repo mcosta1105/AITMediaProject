@@ -1,0 +1,15 @@
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\bin\Release\AITMediaLibrary.exe
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\bin\Release\AITMediaLibrary.pdb
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\bin\Release\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\bin\Release\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\bin\Release\Business Logic.pdb
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\bin\Release\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.AdminForm.resources
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.Form1.resources
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.MediaEditor.resources
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.exe
+C:\Users\5661\Desktop\AITMediaProject\AITMediaLibrary\AITMediaLibrary\obj\x86\Release\AITMediaLibrary.pdb

@@ -1,0 +1,28 @@
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\matthewc\Desktop\Data Access\Data Access\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\5661\Desktop\AITMediaProject1\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\obj\Debug\Business Logic.pdb
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.dll
+C:\Users\Maycon\Desktop\AITMediaProject\Business Logic\Business Logic\bin\Debug\Data Access.pdb

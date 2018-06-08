@@ -1,0 +1,22 @@
+c:\users\matthewc\documents\visual studio 2010\Projects\Data Access\Data Access\bin\Debug\Data Access.dll.config
+c:\users\matthewc\documents\visual studio 2010\Projects\Data Access\Data Access\bin\Debug\Data Access.dll
+c:\users\matthewc\documents\visual studio 2010\Projects\Data Access\Data Access\bin\Debug\Data Access.pdb
+c:\users\matthewc\documents\visual studio 2010\Projects\Data Access\Data Access\obj\Debug\Data Access.dll
+c:\users\matthewc\documents\visual studio 2010\Projects\Data Access\Data Access\obj\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\Data Access\bin\Debug\Data Access.dll.config
+C:\Users\5661\Desktop\AITMediaProject\Data Access\bin\Debug\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\Data Access\bin\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\Data Access\obj\Debug\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject\Data Access\obj\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject1\Data Access\bin\Debug\Data Access.dll.config
+C:\Users\5661\Desktop\AITMediaProject1\Data Access\bin\Debug\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject1\Data Access\bin\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject1\Data Access\obj\Debug\Data Access.dll
+C:\Users\5661\Desktop\AITMediaProject1\Data Access\obj\Debug\Data Access.pdb
+C:\Users\5661\Desktop\AITMediaProject\Data Access\obj\Debug\Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Maycon\Desktop\AITMediaProject\Data Access\obj\Debug\Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Maycon\Desktop\AITMediaProject\Data Access\obj\Debug\Data Access.dll
+C:\Users\Maycon\Desktop\AITMediaProject\Data Access\bin\Debug\Data Access.dll.config
+C:\Users\Maycon\Desktop\AITMediaProject\Data Access\bin\Debug\Data Access.dll
+C:\Users\Maycon\Desktop\AITMediaProject\Data Access\bin\Debug\Data Access.pdb
+C:\Users\Maycon\Desktop\AITMediaProject\Data Access\obj\Debug\Data Access.pdb
